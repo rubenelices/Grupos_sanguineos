@@ -1,4 +1,4 @@
-# Ejercicio 3 – Herencia de Grupos Sanguíneos  
+# Ejercicio Grupos Sanguíneos  
 Rubén Elices  
 
 
